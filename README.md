@@ -1,2 +1,2 @@
-# calculadora-simples
-Uma calculadora simples com operações simples, +, -, *, /
+#simple-calculator
+A simple calculator with basic operations, +, -, *, /
